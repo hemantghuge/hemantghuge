@@ -4,6 +4,9 @@
 
 - I'm currently learning and working on **Computer Vision** :eyes:
 - I'm looking forward for job opportunities.
+- 5 :star: and Gold :1st_place_medal: Badge in **Problem Solving**
+- 5 :star: and Gold :1st_place_medal: Badge in **Python**
+- [Machine Learning Models](https://github.com/HemantGorakshGhuge/Machine_Learning_Elective_III)
 
 **Technical Skills**
 - Computer Vision
