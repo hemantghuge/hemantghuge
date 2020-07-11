@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Hemant Ghuge  :smiley:
+### I'm [Hemant Ghuge](https://www.linkedin.com/in/hemantghuge/)  :smiley:
 
 - I'm currently learning and working on **Computer Vision** :eyes:
 - I'm looking forward for job opportunities.
@@ -24,7 +24,7 @@
 - Raspberry Pi
 - Arduino
 
-Let's Connect :- [LinkedIn](https://www.linkedin.com/in/hemantghuge/)
+*Thanks for reading it. Amazing repositories are waiting for you below.*
 
 <!--
 **HemantGorakshGhuge/HemantGorakshGhuge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
