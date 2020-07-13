@@ -19,9 +19,12 @@
 **Tools**
 - TensorFlow
 - Keras
-- Jupyter Notebook
 - Anaconda
 - OpenCV
+
+**Brain**
+- GTX 1050 Ti
+- Jetson Nano
 - Raspberry Pi
 - Arduino
 
