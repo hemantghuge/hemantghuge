@@ -5,7 +5,7 @@
 - **BATCH 2020** - *Impacted by COVID-19* :mask:
 - I'm currently learning and working on **Computer Vision** :eyes:
 - I'm looking forward for job opportunities.
-- Author of 3 International Research Paper - **IEEE and Springer Conference**
+- Author of 3 International Research Paper -  **Publisher** - *IEEE and Springer*
 - 5 :star: and Gold :1st_place_medal: Badge in **Problem Solving** [HackerRank](https://www.hackerrank.com/hemantghuge0050?hr_r=1)
 - 5 :star: and Gold :1st_place_medal: Badge in **Python** [HackerRank](https://www.hackerrank.com/hemantghuge0050?hr_r=1)
 - [Machine Learning Models](https://github.com/HemantGorakshGhuge/Machine_Learning_Elective_III)
