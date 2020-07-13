@@ -4,15 +4,15 @@
 
 - I'm currently learning and working on **Computer Vision** :eyes:
 - I'm looking forward for job opportunities.
+- Author of 3 International Research Paper
 - 5 :star: and Gold :1st_place_medal: Badge in **Problem Solving** [HackerRank](https://www.hackerrank.com/hemantghuge0050?hr_r=1)
 - 5 :star: and Gold :1st_place_medal: Badge in **Python** [HackerRank](https://www.hackerrank.com/hemantghuge0050?hr_r=1)
 - [Machine Learning Models](https://github.com/HemantGorakshGhuge/Machine_Learning_Elective_III)
+- National Finalist and Awardee in [DD Robocon](http://ddrobocon.iitd.ac.in/index2019.htm), [eYantra Ideas Competition](https://www.e-yantra.org/eyic), [MathWorks MiniDrone Competiion](https://www.mathworks.com/academia/student-competitions/minidrones.html) etc.
 
 **Technical Skills**
 - Computer Vision
 - Machine Learning
-- Deep Learning
-- Image Processing
 - Robotics
 
 **Tools**
