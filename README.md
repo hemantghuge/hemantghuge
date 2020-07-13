@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-### I'm [Hemant Ghuge](https://www.linkedin.com/in/hemantghuge/)  :smiley:
+### I'm [Hemant Ghuge](https://www.linkedin.com/in/hemantghuge/) :smiley:
 
+- **BATCH 2020** - *Impacted by COVID-19* :mask:
 - I'm currently learning and working on **Computer Vision** :eyes:
 - I'm looking forward for job opportunities.
 - Author of 3 International Research Paper
