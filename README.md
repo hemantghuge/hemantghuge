@@ -1,46 +1,49 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Hemant Ghuge 👋</h1>
 
-### I'm [Hemant Ghuge](https://www.linkedin.com/in/hemantghuge/) :smiley:
+<p align="center">
+🎯 AI Engineer | 🚀 Startup Builder | 🎓 Robotics & Computer Vision Enthusiast
+</p>
 
-- **BATCH 2020** - *Impacted by COVID-19* :mask:
-- I'm currently learning and working on **Computer Vision** :eyes:
-- I'm looking forward for job opportunities.
-- Author of 3 International Research Paper -  **Publisher** - *IEEE and Springer*
-- 5 :star: and Gold :1st_place_medal: Badge in **Problem Solving** [HackerRank](https://www.hackerrank.com/hemantghuge0050?hr_r=1)
-- 5 :star: and Gold :1st_place_medal: Badge in **Python** [HackerRank](https://www.hackerrank.com/hemantghuge0050?hr_r=1)
-- [Machine Learning Models](https://github.com/HemantGorakshGhuge/Machine_Learning_Elective_III)
-- National Finalist and Awardee in [DD Robocon](http://ddrobocon.iitd.ac.in/index2019.htm), [eYantra Ideas Competition](https://www.e-yantra.org/eyic), [MathWorks MiniDrone Competiion](https://www.mathworks.com/academia/student-competitions/minidrones.html) etc.
+---
 
-**Technical Skills**
-- Computer Vision
-- Machine Learning
-- Robotics
+### 🧠 About Me
 
-**Tools**
-- TensorFlow
-- Keras
-- Anaconda
-- OpenCV
+- 🎓 **Batch of 2020** — *Graduated amidst COVID era*
+- 🔍 Currently diving deep into **Computer Vision** and **Edge AI**
+- 📚 Published **3 International Research Papers** in *IEEE* and *Springer*
+- 🧩 Built AI/ML products deployed across **9000+ retail and banking locations**
+- 🏅 National finalist at **DD Robocon** and winner of multiple tech competitions
 
-**Brain**
-- GTX 1050 Ti
-- Jetson Nano
-- Raspberry Pi
-- Arduino
+---
 
-*Thanks for reading it. Amazing repositories are waiting for you below.*
+### 🛠️ Technical Toolkit
 
-<!--
-**HemantGorakshGhuge/HemantGorakshGhuge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Computer Vision**: Object Detection, Tracking, Image Quality Analysis  
+- **AI/ML Stack**: Python, OpenCV, TensorFlow, PyTorch, FastAPI, YOLO  
+- **Edge AI**: Jetson Nano, Raspberry Pi, Optimization for Deployment  
+- **Dev Tools**: Git, Docker, Streamlit, MQTT, Linux, Replit  
+- **Other Interests**: Robotics, Harmonica 🎶, Hosting Events ✨
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Notable Achievements
+
+- 🥇 5⭐ in **Python** and **Problem Solving** on [HackerRank](https://www.hackerrank.com/hemantghuge0050)
+- 🔍 [Machine Learning Projects Repo](https://github.com/HemantGorakshGhuge/Machine_Learning_Elective_III)
+- 🧠 Lead AI solutions for safety, surveillance & logistics across industries
+- 🏁 Represented India at [DD Robocon](http://ddrobocon.iitd.ac.in/index2019.htm), [e-Yantra](https://www.e-yantra.org/eyic), and [MathWorks MiniDrone](https://www.mathworks.com/academia/student-competitions/minidrones.html)
+
+---
+
+### 🚀 Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hemantghuge/)
+- 💬 Open to collaborations, AI consulting, or product innovation roles
+
+---
+
+### 📌 Fun Fact
+
+> I love solving real-world problems through AI and have built everything from footfall heatmaps to helmet-detection at ATMs 🚀
+
+---
