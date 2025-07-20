@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <a href="https://hemantghuge.github.io" target="_blank">Hemant Ghuge</a> 👋</h1>
 
 <p align="center">
-🎯 AI Engineer | 🚀 Startup Builder | 🎓 Robotics & Computer Vision Enthusiast
+🎯 AI Engineer | 🚀 Startup Builder | 🎓 Robotics & Computer Vision Specialist
 </p>
 
 ---
