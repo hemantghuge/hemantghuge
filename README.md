@@ -19,10 +19,10 @@
 ### 🛠️ Technical Toolkit
 
 - **Computer Vision**: Object Detection, Tracking, Image Quality Analysis  
-- **AI/ML Stack**: Python, OpenCV, TensorFlow, PyTorch, FastAPI, YOLO  
+- **AI/ML Stack**: Python, OpenCV, TensorFlow, PyTorch, FastAPI, YOLO, LangChain, OpenAI, Gemini
 - **Edge AI**: Jetson Nano, Raspberry Pi, Optimization for Deployment  
 - **Dev Tools**: Git, Docker, Streamlit, MQTT, Linux, Replit  
-- **Other Interests**: Robotics, Harmonica 🎶, Hosting Events ✨
+- **Other Interests**: Robotics, Hosting Events ✨
 
 ---
 
